@@ -1,0 +1,35 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #332;
+    font-size: 1.2rem;
+    line-height: 1.6em;
+}
+p{
+    margin-bottom: 1.6em;
+}
+.container{
+    width: 85%;
+    max-width: 850px;
+    margin: 0 auto;
+}
+.header{
+    background: #641010;
+    color:white;
+}
+.logo-nav-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+.navigation ul{
+    margin: 0;
+padding: 0;
+list-style: none;
+}
+.navigation ul li{
+    display: inline-block;
+}
+.navigation ul li a{
+    display: block;
+    padding: 0.5rem;
+}
