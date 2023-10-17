@@ -7,12 +7,8 @@ body{
     line-height: 1.6em;
     margin: 0;
 }
-
 p{
     margin-bottom: 1.6em;
-}
-.circular--square{
-    border-radius: 50%;
 }
 .container{
     width: 85%;
@@ -46,10 +42,10 @@ p{
 
 }
 .footer{
-    background: #af2929;
-    justify-content: space-between;
+    background: #f2f2f2;
+    padding: 4rem;
     text-align: center;
-    margin-top: 3rem;
+    margin-top: 6rem;
 }
 .navigation ul{
 margin: 0;

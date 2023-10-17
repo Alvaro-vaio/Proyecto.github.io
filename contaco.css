@@ -16,6 +16,11 @@ p{
     margin: 0 auto;
     
 }
+.container{
+    display: flex;
+
+justify-content: center;
+}
 .header{
     background: #000000;
     color: white;
